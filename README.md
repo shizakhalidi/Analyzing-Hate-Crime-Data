@@ -1,7 +1,7 @@
 # Analyzing-Hate-Crime-Data
 Incidents of hate crimes have been on the rise in the United States- including vandalism, intimidation, assault and murder. Federal officials have recorded the highest number of hatemotivated killings in recent years. Those who commit such heinous crimes have different motivations; sometimes they are motivated by religious discrimination, sometimes racial discrimination and sometimes from their hatred against people of different sexual orientations.
 
-# Data set:
+## Data set:
 The Federal Bureau of Investigation (FBI) has been collecting data related to hate crimes since
 the 1990s. In this project, we will be utilizing their datasets which is publicly accessible here.
 Specifically, we will be using data related to the number of hate crime offenses distributed by the
@@ -15,7 +15,7 @@ We have also used the dataset of the results for US elections 2016 which can be 
 dataset contains the total number of votes all presidential candidates received in general elections
 2016 in every county of the United States.
 
-# Questions to be investigated:
+## Questions to be investigated:
 For this project, we came up with the following analytical questions that can be used to study the
 growing number of hate crimes in recent years:
 1. How have hate crimes changed in the span of 2013-2017. More specifically, have hate
@@ -29,10 +29,9 @@ committed from 2013-2016? Have hate crimes increased after Trump came to power?
 militant Jihadi Terrorist organizations and hate crimes against Muslims in the United
 States from 2013-2017?
 
-![alt text](https://github.com/[shizakhalidi]/[Analyzing-Hate-Crime-Data
-]/blob/[branch]/?raw=true)
+![Final Dashboard](https://user-images.githubusercontent.com/34956004/102812636-26a94300-43e9-11eb-97e4-a30d52c54e01.png)
 
-# References:
+## References:
 United States Department of Justice, Federal Bureau of Investigation. (November 2017). Hate
 Crime Statistics, 2016. Retrieved (2.12.20), from (https://ucr.fbi.gov/hate-crime).
 National Consortium for the Study of Terrorism and Responses to Terrorism (START). (2015-
