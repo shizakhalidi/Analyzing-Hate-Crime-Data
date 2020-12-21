@@ -29,6 +29,9 @@ committed from 2013-2016? Have hate crimes increased after Trump came to power?
 militant Jihadi Terrorist organizations and hate crimes against Muslims in the United
 States from 2013-2017?
 
+![alt text](https://github.com/[shizakhalidi]/[Analyzing-Hate-Crime-Data
+]/blob/[branch]/?raw=true)
+
 # References:
 United States Department of Justice, Federal Bureau of Investigation. (November 2017). Hate
 Crime Statistics, 2016. Retrieved (2.12.20), from (https://ucr.fbi.gov/hate-crime).
