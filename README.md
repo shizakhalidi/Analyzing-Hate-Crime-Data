@@ -1,0 +1,2 @@
+# Analyzing-Hate-Crime-Data
+Incidents of hate crimes have been on the rise in the United States- including vandalism, intimidation, assault and murder. Federal officials have recorded the highest number of hatemotivated killings in recent years. Those who commit such heinous crimes have different motivations; sometimes they are motivated by religious discrimination, sometimes racial discrimination and sometimes from their hatred against people of different sexual orientations.
